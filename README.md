@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #EB9326">Dalton Souza Pimentel</h1>
 
  
-### Estudando no momento:
+## Estudando no momento:
 
 Análise e Desenvolvimento de Sistemas
 
@@ -16,41 +16,26 @@ Análise e Desenvolvimento de Sistemas
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:dalton290587@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieel.chavess/)
 
-</div>
-<h3 align=center>Sobre mim</h3> 
 
-<p>
-🔹Há um tempo atrás, cursei licenciatura em matemática na Universidade Federal de Pernambuco, porém descobri que dar aulas de matemática não era meu desejo.
-</p>
+<h2 align=center>Sobre mim</h2> 
 
-<p>
-🔹Atualmente estou investindo no mundo da programação pois sempre gostei de solucionar problemas.
-</p>
+### Há um tempo atrás, cursei licenciatura em matemática na Universidade Federal de Pernambuco, porém descobri que não era o que gostaria fazer.
 
-<p>
-🔹Despertei um grande interesse pela programação, a forma de estruturar o algoritmo detalhadamente e de criar soluções com estas linguagens é fascinante.
-</p>
 
-<p>
-🔹Estou sempre em busca de novos conhecimentos.
-</p>
+### Atualmente estou focado em migrar para area de tecnologia e confesso que está sendo bem desafiador.
 
-<h3 align=center>About</h3> 
 
-<p>
-🔹A while ago, I studied mathematics at the Federal University of Pernambuco, but I discovered that teaching mathematics was not my desire.
-</p>
+### Estou sempre em busca de novos conhecimentos.
 
-<p>
-🔹Nowadays I'm giving a shot to the programming world because I always liked to solve problems.
-</p>
+<h2 align=center>About</h2> 
 
-<p>
-🔹I aroused a great interest in programming, the way of structuring the algorithm in detail and creating solutions with these languages ​​is fascinating.
-</p>
 
-<p>
-🔹I am always looking for new knowledge.
-</p>
+### A while ago, I studied mathematics at the Federal University of Pernambuco, but I discovered that it wasn't what I wanted to do.
+
+
+### I'm currently focused on migrating to the technology area and I confess that it's been quite challenging.
+
+
+### I'm always looking for new knowledge.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3793C9&height=100&section=footer"/>
